@@ -1,20 +1,20 @@
 # <div align="center">**Pokédex com JavaScript**</div>
 
-<div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
+<div align="center"> 
+    <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
 </div>
-
+<br><br>
 <div align="center"> 
     <img align="center" src="assets\images\PotenciaTech-logo.png" width="100" height="" hspace="">
     <img align="center" src="assets\images\ifood-logo.png" width="100" height="" hspace="">
-    <img  align="center" src="assets\images\santander-logo.png" width="200" height="" hspace=""style="margin-left: 40px">
-</div>
-
-<div align="center">
-<img align="center" src="assets\images\angular-developer.png" width="150" height="" hspace="">
-<img align="center" src="assets\images\bootcamp-santander.png" width="150" height="" hspace="" style="margin-left: 100px">
+    <img  align="center" src="assets\images\santander-logo.png" width="250" height="" hspace=""style="margin-left: 40px">
 </div>
 <br><br>
-
+<div align="center">
+<img align="center" src="assets\images\angular-developer.png" width="150" height="" hspace="">
+<img align="center" src="assets\images\bootcamp-santander.png" width="150" height="" hspace="15" style="margin-left: 100px">
+</div>
+<br><br>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10" style="margin: 10px"/>
@@ -50,8 +50,8 @@ Realizar futuras implementações para evolução do projeto inicial (projeto ba
 ## Tecnologias Utilizadas
 
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="15" hspace="5" style="margin-left: 10px"/>
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="85" height="15" hspace="5" style="margin-left: 5px"/>
-- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="115" height="15" hspace="5" style="margin-left: 5px"/> 
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" height="15" hspace="5" style="margin-left: 5px"/>
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="105" height="15" hspace="5" style="margin-left: 5px"/> 
 <hr>
 
 ## Cursos Envolvidos
@@ -75,5 +75,5 @@ Referência direta ao código-fonte original.
 <hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Renan Johannsen](https://github.com/RenanJPaula) por compatilhar seu conhecimento.  
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Renan Johannsen](https://github.com/RenanJPaula) por compartilhar seu conhecimento.  
 
